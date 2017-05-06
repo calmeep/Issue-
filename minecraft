@@ -1,0 +1,733 @@
+[20:24:46] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:24:46] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:24:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[20:24:46] [main/INFO]: Forge Mod Loader version 12.18.3.2281 for Minecraft 1.10.2 loading
+[20:24:46] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_25, running on Windows 10:amd64:10.0, installed at C:\Users\calab_000\Documents\Curse\Minecraft\Install\runtime\jre-x64\1.8.0_25
+[20:24:46] [main/WARN]: The coremod aroma1997.core.coremod.CoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod am2.asm.Preloader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod team.chisel.common.asm.ChiselCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod codechicken.lib.asm.CCLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod cofh.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod mrtjp.core.handler.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod lumien.perfectspawn.asm.PSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod vazkii.quark.base.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:24:46] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:46] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:24:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:24:46] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:24:48] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Finished data injection.
+[20:24:48] [main/INFO]: Finished data injection.
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:48] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Found runtime patcher net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:24:49] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:24:49] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:24:49] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[20:24:50] [main/INFO]: Core: Located target method func_70047_e()F
+[20:24:50] [main/INFO]: Core: Located target ARETURN insn node
+[20:24:50] [main/INFO]: Core: Located target method func_70636_d()V
+[20:24:50] [main/INFO]: Core: Located target method insn node: func_78898_a()V
+[20:24:50] [main/INFO]: Core: Success!  Inserted operations!
+[20:24:50] [Client thread/INFO]: Patching class net/minecraft/server/MinecraftServer
+[20:24:50] [Client thread/INFO]:    Patching method run()V
+[20:24:51] [Client thread/INFO]: Setting user: squeekman987
+[20:24:51] [Client thread/INFO]: [team.chisel.common.asm.ChiselTransformer:transform:44]: Transforming Class [net.minecraft.block.Block], Method [getExtendedState]
+[20:24:51] [Client thread/INFO]: [team.chisel.common.asm.ChiselTransformer:transform:93]: Transforming net.minecraft.block.Block Finished.
+[20:24:51] [Client thread/INFO]: [Quark ASM] Transforming BlockPistonBase
+[20:24:51] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [doMove, func_176319_a, a] Descriptor (Lnet/minecraft/world/World;Lnet/minecraft/util/math/BlockPos;Lnet/minecraft/util/EnumFacing;Z)Z / (Laid;Lcm;Lct;Z)Z)
+[20:24:51] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:24:51] [Client thread/INFO]: [Quark ASM] Patching org.objectweb.asm.tree.MethodNode@48528634 in node org.objectweb.asm.tree.VarInsnNode@5e1d03d7
+[20:24:51] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:24:53] [Client thread/INFO]: [Quark ASM] Transforming EntityBoat
+[20:24:53] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [attackEntityFrom, func_76986_a, a] Descriptor (Lnet/minecraft/util/DamageSource;F)Z / (Lrh;F)Z)
+[20:24:53] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:24:53] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:24:53] [Client thread/INFO]: Located OBJBakedModel
+[20:24:53] [Client thread/INFO]: Core: Located target method func_82722_b(Lnet/minecraft/nbt/NBTTagCompound;)Lnet/minecraft/potion/PotionEffect;
+[20:24:54] [Client thread/ERROR]: java.io.FileNotFoundException: Source 'C:\Users\calab_000\Documents\Curse\Minecraft\Instances\TolkienCraft III - Return to Middle-earth\config\defaultoptions\servers.dat' does not exist
+[20:24:54] [Client thread/WARN]: Skipping bad option: lastServer:
+[20:24:54] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:24:56] [Client thread/INFO]: Patching class net/minecraft/client/resources/Locale
+[20:24:56] [Client thread/INFO]:    Patching method func_135022_a(Lnet/minecraft/client/resources/IResourceManager;Ljava/util/List;)V
+[20:24:56] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:223]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  CoreMod (Aroma1997Core-1.9.4-1.1.1.2.jar)
+  Brandon's Core (BrandonsCore-1.10.2-2.1.6.98-universal.jar)
+  IceAndFireForgeLoading (iceandfire-1.0.1.jar)
+  LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  ChiselCorePlugin (Chisel-MC1.10.2-0.0.10.22.jar)
+  CCLCorePlugin (CodeChickenLib-1.10.2-2.5.8.255-universal.jar)
+  Default Options (DefaultOptions_1.10.2-6.1.5.jar)
+  LoadingPlugin (Quark-r1.1-70.jar)
+  llibrary (llibrary-1.7.4-1.10.2.jar)
+  ArsMagica2-Preloader (ArsMagica2-1.10.2-1.5.0-18.jar)
+  CoFH Loading Plugin (CoFHCore-1.10.2-4.1.1.156-universal.jar)
+  CorePlugin (MrTJPCore-1.10.2-2.0.0.17-universal.jar)
+  PSLoadingPlugin (PerfectSpawn-MC1.10.2-1.4.jar)
+Contact their authors BEFORE contacting forge
+
+// Sorry :(
+
+Time: 5/5/17 8:24 PM
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.10.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_25, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 413526944 bytes (394 MB) / 968359936 bytes (923 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 4 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096m -Xms256m -XX:PermSize=256m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+CoreMod (Aroma1997Core-1.9.4-1.1.1.2.jar)
+  
+Brandon's Core (BrandonsCore-1.10.2-2.1.6.98-universal.jar)
+  com.brandon3055.brandonscore.asm.ClassTransformer
+IceAndFireForgeLoading (iceandfire-1.0.1.jar)
+  com.github.alexthe666.iceandfire.access.IceAndFireTransformer
+LoadingPlugin (ResourceLoader-MC1.9.4-1.5.1.jar)
+  lumien.resourceloader.asm.ClassTransformer
+ChiselCorePlugin (Chisel-MC1.10.2-0.0.10.22.jar)
+  team.chisel.common.asm.ChiselTransformer
+CCLCorePlugin (CodeChickenLib-1.10.2-2.5.8.255-universal.jar)
+  codechicken.lib.asm.ClassHeirachyManager
+  codechicken.lib.asm.CCL_ASMTransformer
+Default Options (DefaultOptions_1.10.2-6.1.5.jar)
+  net.blay09.mods.defaultoptions.coremod.DefaultOptionsClassTransformer
+LoadingPlugin (Quark-r1.1-70.jar)
+  vazkii.quark.base.asm.ClassTransformer
+llibrary (llibrary-1.7.4-1.10.2.jar)
+  net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+  net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+ArsMagica2-Preloader (ArsMagica2-1.10.2-1.5.0-18.jar)
+  am2.asm.Transformer
+CoFH Loading Plugin (CoFHCore-1.10.2-4.1.1.156-universal.jar)
+  cofh.asm.CoFHClassTransformer
+  cofh.asm.repack.codechicken.lib.asm.ClassHierarchyManager
+CorePlugin (MrTJPCore-1.10.2-2.0.0.17-universal.jar)
+  
+PSLoadingPlugin (PerfectSpawn-MC1.10.2-1.4.jar)
+  lumien.perfectspawn.asm.PSClassTransformer
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 378.49' Renderer: 'GeForce GTX 970/PCIe/SSE2'
+[20:24:56] [Client thread/INFO]: MinecraftForge v12.18.3.2281 Initialized
+[20:24:56] [Client thread/INFO]: Replaced 231 ore recipes
+[20:24:56] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[20:24:56] [Client thread/INFO]: Searching C:\Users\calab_000\Documents\Curse\Minecraft\Instances\TolkienCraft III - Return to Middle-earth\mods for mods
+[20:24:57] [Client thread/WARN]: ****************************************
+[20:24:57] [Client thread/WARN]: * The modid AkashicTome is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:57] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:57] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:57] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:57] [Client thread/WARN]: ****************************************
+[20:24:57] [Client thread/WARN]: ****************************************
+[20:24:57] [Client thread/WARN]: * The modid AntiqueAtlasOverlay is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:57] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:57] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:57] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:57] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:57] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid Aroma1997CoreHelper is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod Aroma1997CoreHelper is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.1.2
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid AromaBackup is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod AromaBackup is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0.1.1
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid AromaBackupRecovery is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod AromaBackupRecovery is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid AnimationAPI is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid AutoRegLib is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid BetterAchievements is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid BiblioCraft is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid BloodMagic is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid Chameleon is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid ChickenChunks is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod ChickenChunks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.2.0.52
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid CodeChickenCore is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod CodeChickenCore is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.4.1.102
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: * The modid CodeChickenLib is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:58] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:58] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:58] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:58] [Client thread/WARN]: ****************************************
+[20:24:58] [Client thread/WARN]: Mod CodeChickenLib is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.5.8.255
+[20:24:58] [Client thread/INFO]: Mod ccl-entityhook is missing the required element 'name'. Substituting ccl-entityhook
+[20:24:58] [Client thread/WARN]: Mod ccl-entityhook is missing the required element 'version' and no fallback can be found. Substituting '1.0'.
+[20:24:58] [Thread-6/INFO]: Using sync timing. 200 frames of Display.update took 129078587 nanos
+[20:24:58] [Client thread/WARN]: Mod craftingtweaks is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.1.16
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: * The modid PTRModelLib is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:59] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: Mod defaultoptions is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 6.1.5
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: * The modid EnderStorage is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:59] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: Mod EnderStorage is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.2.1.106
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: * The modid FastLeaveDecay is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:24:59] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:24:59] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:24:59] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:24:59] [Client thread/WARN]: ****************************************
+[20:24:59] [Client thread/WARN]: Mod microblockcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.31
+[20:25:00] [Client thread/WARN]: Mod forgemultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.31
+[20:25:00] [Client thread/WARN]: Mod minecraftmultipartcbe is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.31
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid Waila is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: Mod ironchest is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.10.2-7.0.12.801
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid JEI is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: Mod llor is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.1.1-mc[1.9-1.11]
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid MadHelp is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid MCA is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid Morphtool is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid MrTJPCoreMod is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: Mod MrTJPCoreMod is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.0.0.17
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid PerfectSpawn is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: Mod projectred-core is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.8.1.30
+[20:25:00] [Client thread/WARN]: Mod projectred-integration is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.8.1.30
+[20:25:00] [Client thread/WARN]: Mod projectred-transmission is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 4.8.1.30
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid Quark is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:00] [Client thread/WARN]: * The modid RadixCore is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:00] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:00] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:00] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:00] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid ResourceLoader is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid StorageDrawers is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid TownBuilder is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid Translocator is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: Mod Translocator is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.1.4.55
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid VeinMiner is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid VeinMinerModSupport is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The modid Woot is not the same as it's lowercase version. Lowercasing will be enforced in 1.11
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.sanityCheckModId(FMLModContainer.java:143)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.FMLModContainer.<init>(FMLModContainer.java:128)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.GeneratedConstructorAccessor10.newInstance(Unknown Source)
+[20:25:01] [Client thread/WARN]: *  at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+[20:25:01] [Client thread/WARN]: *  at java.lang.reflect.Constructor.newInstance(Constructor.java:408)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModContainerFactory.build(ModContainerFactory.java:86)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/INFO]: Forge Mod Loader has identified 108 mods to load
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The API cofhapi|energy from source C:\Users\calab_000\Documents\Curse\Minecraft\Instances\TolkienCraft III - Return to Middle-earth\mods\CoFHCore-1.10.2-4.1.1.156-universal.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:113)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:173)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:231)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:532)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:220)
+[20:25:01] [Client thread/WARN]: *  at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:439)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/WARN]: * The API cofhapi from source C:\Users\calab_000\Documents\Curse\Minecraft\Instances\TolkienCraft III - Return to Middle-earth\mods\CoFHCore-1.10.2-4.1.1.156-universal.jar is loaded from an incompatible classloader. THIS WILL NOT WORK!
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager$APIContainer.validate(ModAPIManager.java:113)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.registerDataTableAndParseAPI(ModAPIManager.java:173)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.ModAPIManager.manageAPI(ModAPIManager.java:231)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:532)
+[20:25:01] [Client thread/WARN]: *  at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:220)
+[20:25:01] [Client thread/WARN]: *  at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:439)...
+[20:25:01] [Client thread/WARN]: ****************************************
+[20:25:01] [Client thread/INFO]: Found mod(s) [extrautils2] containing declared API package cofh.api (owned by CoFHLib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [cofhcore] containing declared API package cofh.api (owned by CoFHLib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [brandonscore] containing declared API package cofh.api (owned by cofhlib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [railcraft] containing declared API package cofh.api (owned by cofhlib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [immersiveengineering] containing declared API package cofh.api (owned by cofhlib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [modularrouters] containing declared API package cofh.api (owned by cofhlib) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [extrautils2] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [cofhcore] containing declared API package cofh.api.energy (owned by CoFHAPI) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [cofhcore] containing declared API package cofh.api.item (owned by CoFHAPI) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [brandonscore] containing declared API package cofh.api.energy (owned by cofhapi) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [railcraft] containing declared API package cofh.api.energy (owned by cofhapi) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [immersiveengineering] containing declared API package cofh.api.energy (owned by cofhapi) without associated API reference
+[20:25:01] [Client thread/INFO]: Found mod(s) [modularrouters] containing declared API package cofh.api.energy (owned by cofhapi) without associated API reference
+[20:25:01] [Client thread/INFO]: FML has found a non-mod file compatlayer-1.10-0.2.8.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:25:01] [Client thread/INFO]: FML has found a non-mod file mcjtylib-1.1x-2.3.11.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:25:01] [Client thread/INFO]: FML has found a non-mod file Ruins-1.10-sources.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:25:01] [Client thread/INFO]: FML has found a non-mod file Ruins-1.10.2-sources.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:25:04] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, Aroma1997Core, <CoFH ASM>, rpghud, AkashicTome, allomancy, antiqueatlas, AntiqueAtlasOverlay, architecturecraft, Aroma1997CoreHelper, AromaBackup, AromaBackupRecovery, arsmagica2, AnimationAPI, atlcraft, AutoRegLib, BetterAchievements, betteragriculture, betterquesting, bqt, BiblioCraft, birdsnests, BloodMagic, boatlantern, bqmie, brandonscore, Chameleon, ChickenChunks, chisel, chiselsandbits, CodeChickenCore, CodeChickenLib, ccl-entityhook, cofhcore, craftingtweaks, crashlogadditions, custommainmenu, customnpcs, customstartinggear, PTRModelLib, props, deepresonance, defaultoptions, draconicevolution, eleccore, embers, EnderStorage, expandablebackpack, extrautils2, FastLeaveDecay, flatcoloredblocks, forestry, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, guideapi, Waila, iceandfire, immersiveengineering, infinitylib, ironchest, JEI, journeymap, justenoughdimensions, jeresources, levelup, llibrary, llor, lootbags, MadHelp, mantle, MCA, modularrouters, Morphtool, MrTJPCoreMod, bq_npc_integration, harvestcraft, PerfectSpawn, projectred-core, projectred-integration, projectred-transmission, Quark, RadixCore, railcraft, xreliquary, ResourceLoader, corerm, roots, bq_standard, StorageDrawers, tconstruct, camping, thermalfoundation, thut_bling, thut_wearables, thutcore, tinkertoolleveling, tolkientweaks, TownBuilder, Translocator, VeinMiner, VeinMinerModSupport, icse, wawla, wolfarmor, Woot] at CLIENT
+[20:25:04] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, Aroma1997Core, <CoFH ASM>, rpghud, AkashicTome, allomancy, antiqueatlas, AntiqueAtlasOverlay, architecturecraft, Aroma1997CoreHelper, AromaBackup, AromaBackupRecovery, arsmagica2, AnimationAPI, atlcraft, AutoRegLib, BetterAchievements, betteragriculture, betterquesting, bqt, BiblioCraft, birdsnests, BloodMagic, boatlantern, bqmie, brandonscore, Chameleon, ChickenChunks, chisel, chiselsandbits, CodeChickenCore, CodeChickenLib, ccl-entityhook, cofhcore, craftingtweaks, crashlogadditions, custommainmenu, customnpcs, customstartinggear, PTRModelLib, props, deepresonance, defaultoptions, draconicevolution, eleccore, embers, EnderStorage, expandablebackpack, extrautils2, FastLeaveDecay, flatcoloredblocks, forestry, microblockcbe, forgemultipartcbe, minecraftmultipartcbe, guideapi, Waila, iceandfire, immersiveengineering, infinitylib, ironchest, JEI, journeymap, justenoughdimensions, jeresources, levelup, llibrary, llor, lootbags, MadHelp, mantle, MCA, modularrouters, Morphtool, MrTJPCoreMod, bq_npc_integration, harvestcraft, PerfectSpawn, projectred-core, projectred-integration, projectred-transmission, Quark, RadixCore, railcraft, xreliquary, ResourceLoader, corerm, roots, bq_standard, StorageDrawers, tconstruct, camping, thermalfoundation, thut_bling, thut_wearables, thutcore, tinkertoolleveling, tolkientweaks, TownBuilder, Translocator, VeinMiner, VeinMinerModSupport, icse, wawla, wolfarmor, Woot] at SERVER
+[20:25:06] [Client thread/INFO]: Hello Minecraft!!!
+[20:25:06] [Client thread/INFO]: [Quark ASM] Transforming ModelBiped
+[20:25:06] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [setRotationAngles, func_78087_a, a] Descriptor (FFFFFFLnet/minecraft/entity/Entity;)V / (FFFFFFLrw;)V)
+[20:25:06] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:25:06] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:25:06] [Client thread/INFO]: Patching class net/minecraft/client/model/ModelPlayer
+[20:25:06] [Client thread/INFO]:    Patching method <init>(FZ)V
+[20:25:06] [Client thread/INFO]:    Patching method func_78088_a(Lnet/minecraft/entity/Entity;FFFFFF)V
+[20:25:06] [Client thread/INFO]:    Patching method func_78087_a(FFFFFFLnet/minecraft/entity/Entity;)V
+[20:25:07] [Client thread/INFO]: Hello Minecraft!!!
+[20:25:07] [Client thread/INFO]: [Quark ASM] Transforming RenderItem
+[20:25:07] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderItem, func_180454_a, a] Descriptor (Lnet/minecraft/item/ItemStack;Lnet/minecraft/client/renderer/block/model/IBakedModel;)V / (Ladz;Lbyl;)V)
+[20:25:07] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:25:07] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:25:07] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderEffect, func_180451_a, a] Descriptor (Lnet/minecraft/client/renderer/block/model/IBakedModel;)V / (Lbyl;)V)
+[20:25:07] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:25:07] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:25:07] [Client thread/INFO]: Core: Located target method func_78479_a(FI)V
+[20:25:07] [Client thread/INFO]: Core: Located target method insn node: gluPerspective(FFFF)V
+[20:25:07] [Client thread/INFO]: Core: Located target method insn node: func_78467_g(F)V
+[20:25:07] [Client thread/INFO]: Core: Success!  Inserted callout function op (shift)!
+[20:25:07] [Client thread/INFO]: Core: Success!  Inserted callout function op (flip)!
+[20:25:07] [Client thread/INFO]: Core: Located target method func_181560_a(FJ)V
+[20:25:07] [Client thread/INFO]: Core: Located target method insn node: net/minecraft/profiler/Profiler.func_76320_a, (Ljava/lang/String;)V
+[20:25:07] [Client thread/INFO]: Core: Success!  Inserted opcodes!
+[20:25:08] [Client thread/INFO]: Skipping Pulse theoneprobeIntegration; missing dependency: theoneprobe
+[20:25:08] [Client thread/INFO]: Preparing to take over the world
+[20:25:09] [Client thread/INFO]: Hello Minecraft!!!
+[20:25:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:RPG-Hud, FMLFileResourcePack:Akashic Tome, FMLFileResourcePack:Allomancy, FMLFileResourcePack:Antique Atlas, FMLFileResourcePack:AntiqueAtlasOverlay, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:Aroma1997Core|Helper, FMLFileResourcePack:AromaBackup, FMLFileResourcePack:AromaBackup Recovery, FMLFileResourcePack:Ars Magica 2, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:ATLCraft Candles Mod, FMLFileResourcePack:AutoRegLib, FMLFileResourcePack:Better Achievements, FMLFileResourcePack:Better Agriculture, FMLFileResourcePack:Better Questing, FMLFileResourcePack:Better Questing Triggerer, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Bird's Nests, FMLFileResourcePack:Blood Magic: Alchemical Wizardry, FMLFileResourcePack:Lantern, FMLFileResourcePack:BQMIE, FMLFileResourcePack:Brandon's Core, FMLFileResourcePack:Chameleon, FMLFileResourcePack:ChickenChunks, FMLFileResourcePack:Chisel, FMLFileResourcePack:Chisels & Bits, FMLFileResourcePack:CodeChicken Core, FMLFileResourcePack:CodeChicken Lib, FMLFileResourcePack:ccl-entityhook, FMLFileResourcePack:CoFH Core, FMLFileResourcePack:Crafting Tweaks, FMLFileResourcePack:Crash Log Additions, FMLFileResourcePack:Custom Main Menu, FMLFileResourcePack:CustomNPCs, FMLFileResourcePack:Custom Starting Gear, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:DeepResonance, FMLFileResourcePack:Default Options, FMLFileResourcePack:Draconic Evolution, FMLFileResourcePack:ElecCore, FMLFileResourcePack:Embers, FMLFileResourcePack:EnderStorage, FMLFileResourcePack:Expandable Backpacks, FMLFileResourcePack:Extra Utilities 2, FMLFileResourcePack:Fast Leave Decay, FMLFileResourcePack:Flat Colored Blocks, FMLFileResourcePack:Forestry, FMLFileResourcePack:Forge Microblocks, FMLFileResourcePack:Forge Multipart CBE, FMLFileResourcePack:Minecraft Multipart Plugin, FMLFileResourcePack:Guide-API, FMLFileResourcePack:Waila, FMLFileResourcePack:Ice and Fire, FMLFileResourcePack:Immersive Engineering, FMLFileResourcePack:InfinityLib, FMLFileResourcePack:Iron Chest, FMLFileResourcePack:Just Enough Items, FMLFileResourcePack:JourneyMap, FMLFileResourcePack:Just Enough Dimensions, FMLFileResourcePack:Just Enough Resources, FMLFileResourcePack:Level Up!, FMLFileResourcePack:LLibrary, FMLFileResourcePack:Light Level Overlay Reloaded, FMLFileResourcePack:Loot Bags, FMLFileResourcePack:Mad Help, FMLFileResourcePack:Mantle, FMLFileResourcePack:Minecraft Comes Alive, FMLFileResourcePack:Modular Routers, FMLFileResourcePack:Morph-o-Tool, FMLFileResourcePack:MrTJPCore, FMLFileResourcePack:NPC Integration, FMLFileResourcePack:Pam's HarvestCraft, FMLFileResourcePack:Perfect Spawn, FMLFileResourcePack:ProjectRed Core, FMLFileResourcePack:ProjectRed integration, FMLFileResourcePack:ProjectRed Transmission, FMLFileResourcePack:Quark, FMLFileResourcePack:RadixCore, FMLFileResourcePack:Railcraft, FMLFileResourcePack:Reliquary, FMLFileResourcePack:Resource Loader, FMLFileResourcePack:RikMuld's Core, FMLFileResourcePack:Roots, FMLFileResourcePack:Standard Expansion, FMLFileResourcePack:Storage Drawers, FMLFileResourcePack:Tinkers' Construct, FMLFileResourcePack:The Camping Mod 2, FMLFileResourcePack:Thermal Foundation, FMLFileResourcePack:Thut's Bling, FMLFileResourcePack:Thut's Wearables, FMLFileResourcePack:ThutCore, FMLFileResourcePack:Tinkers Tool Leveling, FMLFileResourcePack:Tolkien Tweaks, FMLFileResourcePack:Town Builder, FMLFileResourcePack:Translocator, FMLFileResourcePack:Vein Miner, FMLFileResourcePack:Mod Support, FMLFileResourcePack:I Can See Everything, FMLFileResourcePack:What Are We Looking At, FMLFileResourcePack:Wolf Armor and Storage, FMLFileResourcePack:Woot, CustomResources, bibliocraft_paintings.zip, rpgskin.zip, CustomOverridingResources
+[20:25:10] [Client thread/INFO]: Processing ObjectHolder annotations
+[20:25:10] [Client thread/INFO]: Found 480 ObjectHolder annotations
+[20:25:10] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[20:25:10] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[20:25:10] [Client thread/INFO]: Applying holder lookups
+[20:25:10] [Client thread/INFO]: Holder lookups applied
+[20:25:10] [Client thread/INFO]: Applying holder lookups
+[20:25:10] [Client thread/INFO]: Holder lookups applied
+[20:25:10] [Client thread/INFO]: Applying holder lookups
+[20:25:10] [Client thread/INFO]: Holder lookups applied
+[20:25:10] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[20:25:10] [Forge Version Check/INFO]: [justenoughdimensions] Starting version check at https://raw.githubusercontent.com/maruohon/justenoughdimensions/master/update.json
+[20:25:10] [Client thread/INFO]: Logger initialized.
+[20:25:10] [Client thread/OFF]: Loading Aroma1997Core version ${version} for MC ${mcversion}
+[20:25:10] [Client thread/INFO]: Finished Pre-initialization.
+[20:25:11] [Forge Version Check/INFO]: [justenoughdimensions] Found status: OUTDATED Target: 1.5.0
+[20:25:11] [Forge Version Check/INFO]: [craftingtweaks] Starting version check at http://balyware.com/new/forge_update.php?modid=craftingtweaks
+[20:25:11] [Client thread/INFO]: Loaded texture set TEST with 2 custom texture(s)
+[20:25:11] [Client thread/INFO]: Registered texture set WATER for biome 0
+[20:25:11] [Client thread/INFO]: Registered texture set PLAINS for biome 1
+[20:25:11] [Client thread/INFO]: Registered texture set DESERT for biome 2
+[20:25:11] [Client thread/INFO]: Registered texture set MOUNTAINS for biome 3
+[20:25:11] [Client thread/INFO]: Registered texture set FOREST for biome 4
+[20:25:11] [Client thread/INFO]: Registered texture set PINES for biome 5
+[20:25:11] [Client thread/INFO]: Registered texture set SWAMP for biome 6
+[20:25:11] [Client thread/INFO]: Registered texture set WATER for biome 7
+[20:25:11] [Client thread/INFO]: Registered texture set CAVE_WALLS for biome 8
+[20:25:11] [Client thread/INFO]: Registered texture set SHORE for biome 9
+[20:25:11] [Client thread/INFO]: Registered texture set ICE for biome 10
+[20:25:11] [Client thread/INFO]: Registered texture set ICE for biome 11
+[20:25:11] [Client thread/INFO]: Registered texture set SNOW for biome 12
+[20:25:11] [Client thread/INFO]: Registered texture set SNOW_HILLS for biome 13
+[20:25:11] [Client thread/INFO]: Registered texture set MUSHROOM for biome 14
+[20:25:11] [Client thread/INFO]: Registered texture set SHORE for biome 15
+[20:25:11] [Client thread/INFO]: Registered texture set SHORE for biome 16
+[20:25:11] [Client thread/INFO]: Registered texture set DESERT_HILLS for biome 17
+[20:25:11] [Client thread/INFO]: Registered texture set FOREST_HILLS for biome 18
+[20:25:11] [Client thread/INFO]: Registered texture set PINES_HILLS for biome 19
+[20:25:11] [Client thread/INFO]: Registered texture set MOUNTAINS for biome 20
+[20:25:11] [Client thread/INFO]: Registered texture set JUNGLE for biome 21
+[20:25:11] [Client thread/INFO]: Registered texture set JUNGLE_HILLS for biome 22
+[20:25:11] [Client thread/INFO]: Registered texture set JUNGLE_EDGE for biome 23
+[20:25:11] [Client thread/INFO]: Registered texture set WATER for biome 24
+[20:25:11] [Client thread/INFO]: Registered texture set ROCK_SHORE for biome 25
+[20:25:11] [Client thread/INFO]: Registered texture set SHORE for biome 26
+[20:25:11] [Client thread/INFO]: Registered texture set BIRCH for biome 27
+[20:25:11] [Client thread/INFO]: Registered texture set BIRCH_HILLS for biome 28
+[20:25:11] [Client thread/INFO]: Registered texture set DENSE_FOREST for biome 29
+[20:25:11] [Client thread/INFO]: Registered texture set SNOW_PINES for biome 30
+[20:25:11] [Client thread/INFO]: Registered texture set SNOW_PINES_HILLS for biome 31
+[20:25:11] [Client thread/INFO]: Registered texture set MEGA_TAIGA for biome 32
+[20:25:11] [Client thread/INFO]: Registered texture set MEGA_TAIGA_HILLS for biome 33
+[20:25:11] [Client thread/INFO]: Registered texture set MOUNTAINS_ALL for biome 34
+[20:25:11] [Client thread/INFO]: Registered texture set SAVANNA for biome 35
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_SAVANNA for biome 36
+[20:25:11] [Client thread/INFO]: Registered texture set MESA for biome 37
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_MESA_TREES for biome 38
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_MESA for biome 39
+[20:25:11] [Client thread/INFO]: Registered texture set END_VOID for biome 127
+[20:25:11] [Client thread/INFO]: Registered texture set SUNFLOWERS for biome 129
+[20:25:11] [Client thread/INFO]: Registered texture set DESERT for biome 130
+[20:25:11] [Client thread/INFO]: Registered texture set MOUNTAINS_SNOW_CAPS for biome 131
+[20:25:11] [Client thread/INFO]: Registered texture set FOREST_FLOWERS for biome 132
+[20:25:11] [Client thread/INFO]: Registered texture set PINES_HILLS for biome 133
+[20:25:11] [Client thread/INFO]: Registered texture set SWAMP_HILLS for biome 134
+[20:25:11] [Client thread/INFO]: Registered texture set ICE_SPIKES for biome 140
+[20:25:11] [Client thread/INFO]: Registered texture set JUNGLE_CLIFFS for biome 149
+[20:25:11] [Client thread/INFO]: Registered texture set JUNGLE_EDGE_HILLS for biome 151
+[20:25:11] [Client thread/INFO]: Registered texture set TALL_BIRCH for biome 155
+[20:25:11] [Client thread/INFO]: Registered texture set TALL_BIRCH_HILLS for biome 156
+[20:25:11] [Client thread/INFO]: Registered texture set DENSE_FOREST_HILLS for biome 157
+[20:25:11] [Client thread/INFO]: Registered texture set SNOW_PINES_HILLS for biome 158
+[20:25:11] [Client thread/INFO]: Registered texture set MEGA_SPRUCE for biome 160
+[20:25:11] [Client thread/INFO]: Registered texture set MEGA_SPRUCE_HILLS for biome 161
+[20:25:11] [Client thread/INFO]: Registered texture set MOUNTAINS_SNOW_CAPS for biome 162
+[20:25:11] [Client thread/INFO]: Registered texture set SAVANNA_CLIFFS for biome 163
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_SAVANNA_M for biome 164
+[20:25:11] [Client thread/INFO]: Registered texture set BRYCE for biome 165
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_MESA_TREES_LOW for biome 166
+[20:25:11] [Client thread/INFO]: Registered texture set PLATEAU_MESA_LOW for biome 167
+[20:25:11] [Client thread/INFO]: Registered texture set END_ISLAND for tile "endIsland"
+[20:25:11] [Client thread/INFO]: Registered texture set END_ISLAND_PLANTS for tile "endIslandPlants"
+[20:25:11] [Client thread/INFO]: Registered texture set END_VOID for tile "endVoid"
+[20:25:11] [Client thread/INFO]: Registered texture set LAVA for tile "lava"
+[20:25:11] [Client thread/INFO]: Registered texture set LAVA_SHORE for tile "lavaShore"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE for tile "netherBridge"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_END_X for tile "netherBridgeEndX"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_END_Z for tile "netherBridgeEndZ"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_GATE for tile "netherBridgeGate"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_X for tile "netherBridgeX"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_BRIDGE_Z for tile "netherBridgeZ"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_FORT_STAIRS for tile "netherFortStairs"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_HALL for tile "netherHall"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_THRONE for tile "netherThrone"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_TOWER for tile "netherTower"
+[20:25:11] [Client thread/INFO]: Registered texture set NETHER_WALL for tile "netherWall"
+[20:25:11] [Client thread/INFO]: Registered texture set BUTCHERS_SHOP for tile "npcVillageButchersShop"
+[20:25:11] [Client thread/INFO]: Registered texture set CHURCH for tile "npcVillageChurch"
+[20:25:11] [Client thread/INFO]: Registered texture set FARMLAND_LARGE for tile "npcVillageFarmlandLarge"
+[20:25:11] [Client thread/INFO]: Registered texture set FARMLAND_SMALL for tile "npcVillageFarmlandSmall"
+[20:25:11] [Client thread/INFO]: Registered texture set HUT for tile "npcVillageHut"
+[20:25:11] [Client thread/INFO]: Registered texture set L-HOUSE for tile "npcVillageLHouse"
+[20:25:11] [Client thread/INFO]: Registered texture set LIBRARY for tile "npcVillageLibrary"
+[20:25:11] [Client thread/INFO]: Registered texture set HOUSE_SMALL for tile "npcVillageSmallHouse"
+[20:25:11] [Client thread/INFO]: Registered texture set SMITHY for tile "npcVillageSmithy"
+[20:25:11] [Client thread/INFO]: Registered texture set VILLAGE_TORCH for tile "npcVillageTorch"
+[20:25:11] [Client thread/INFO]: Registered texture set WELL for tile "npcVillageWell"
+[20:25:11] [Client thread/INFO]: [kenkron.antiqueatlasoverlay.AntiqueAtlasOverlayMod:preInit:22]: class kenkron.antiqueatlasoverlay.AAOClient
+[20:25:11] [Client thread/INFO]: [kenkron.antiqueatlasoverlay.AAOClient:preInit:18]: loaded
+[20:25:11] [Client thread/INFO]: Core: Removing Model Rotation Limit...
+[20:25:11] [Client thread/INFO]: Helping Aroma1997Core
+[20:25:11] [Client thread/INFO]: Using Dimension Whitelist with  6 entries.
+[20:25:11] [Client thread/INFO]: Patching class net/minecraft/client/renderer/entity/RenderPlayer
+[20:25:11] [Client thread/INFO]:    Patching method <init>(Lnet/minecraft/client/renderer/entity/RenderManager;Z)V
+[20:25:11] [Client thread/INFO]:    Patching method func_177138_b(Lnet/minecraft/client/entity/AbstractClientPlayer;)V
+[20:25:11] [Client thread/INFO]:    Patching method func_177139_c(Lnet/minecraft/client/entity/AbstractClientPlayer;)V
+[20:25:11] [Forge Version Check/INFO]: [cofhcore] Starting version check at https://raw.github.com/cofh/version/master/cofhcore_update.json
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_phy
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_drn
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_fall
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_exp
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_fire
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_frst
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_mage
+[20:25:11] [Client thread/INFO]: Registered imbuement: dr_litn
+[20:25:11] [Client thread/INFO]: Registered imbuement: mn_reg
+[20:25:11] [Client thread/INFO]: Registered imbuement: bn_red
+[20:25:11] [Client thread/INFO]: Registered imbuement: soulbnd
+[20:25:11] [Client thread/INFO]: Registered imbuement: fl_lure
+[20:25:11] [Client thread/INFO]: Registered imbuement: mg_xp
+[20:25:11] [Client thread/INFO]: Registered imbuement: pp_ore
+[20:25:11] [Client thread/INFO]: Registered imbuement: mg_gog
+[20:25:11] [Client thread/INFO]: Registered imbuement: tc_nrv
+[20:25:11] [Client thread/INFO]: Registered imbuement: step_up
+[20:25:11] [Client thread/INFO]: Registered imbuement: run_spd
+[20:25:11] [Client thread/INFO]: Registered imbuement: dispel
+[20:25:11] [Client thread/INFO]: Registered imbuement: fallprot
+[20:25:11] [Client thread/INFO]: Registered imbuement: fireprot
+[20:25:11] [Client thread/INFO]: Registered imbuement: freedom
+[20:25:11] [Client thread/INFO]: Registered imbuement: healing
+[20:25:11] [Client thread/INFO]: Registered imbuement: hungerup
+[20:25:11] [Client thread/INFO]: Registered imbuement: highjump
+[20:25:11] [Client thread/INFO]: Registered imbuement: lifesave
+[20:25:11] [Client thread/INFO]: Registered imbuement: lightstep
+[20:25:11] [Client thread/INFO]: Registered imbuement: minespd
+[20:25:11] [Client thread/INFO]: Registered imbuement: recoil
+[20:25:11] [Client thread/INFO]: Registered imbuement: swimspd
+[20:25:11] [Client thread/INFO]: Registered imbuement: wtrbrth
+[20:25:11] [Client thread/INFO]: Registered imbuement: wtrwalk
+[20:25:12] [Forge Version Check/INFO]: [cofhcore] Found status: UP_TO_DATE Target: null
+[20:25:12] [Forge Version Check/INFO]: [thutcore] Starting version check at https://raw.githubusercontent.com/Thutmose/Thut/master/ThutCore/versions.json
+[20:25:12] [Forge Version Check/INFO]: [thutcore] Found status: BETA Target: null
+[20:25:12] [Forge Version Check/INFO]: [rpghud] Starting version check at http://download.spellcraftgaming.net/rpghud/version/update.json
+[20:25:12] [Client thread/WARN]: Redundant call to BiomeDictionary.registerAllBiomes ignored
+[20:25:12] [Client thread/INFO]: Skipping spawn list entry for am2.entity.EntityDryad (as type CREATURE), as the weight is set to 0.  This can be changed in config.
+[20:25:12] [Forge Version Check/INFO]: [rpghud] Found status: BETA Target: null
+[20:25:12] [Forge Version Check/INFO]: [thermalfoundation] Starting version check at https://raw.github.com/cofh/version/master/thermalfoundation_update.json
+[20:25:12] [Forge Version Check/INFO]: [thermalfoundation] Found status: UP_TO_DATE Target: null
+[20:25:12] [Forge Version Check/INFO]: [betteragriculture] Starting version check at https://raw.githubusercontent.com/nfinit-gaming/BetterAgriculture/master/update.json
+[20:25:12] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:25:12] [Forge Version Check/INFO]: [Forge] Found status: AHEAD Target: null
+[20:25:12] [Forge Version Check/INFO]: [railcraft] Starting version check at http://www.railcraft.info/railcraft_versions
+[20:25:12] [Client thread/INFO]: OBJLoader: Domain arsmagica2 has been added.
+[20:25:13] [Forge Version Check/INFO]: [railcraft] Found status: AHEAD Target: null
+[20:25:14] [Client thread/INFO]: [Quark] Module vanity is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module world is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module automation is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module building is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module tweaks is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module decoration is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module experimental is enabled
+[20:25:14] [Client thread/INFO]: [Quark] Module management is enabled
+[20:25:15] [Client thread/INFO]: [Quark ASM] Transforming LayerArmorBase
+[20:25:15] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderArmorLayer, func_188361_a, a] Descriptor (Lnet/minecraft/entity/EntityLivingBase;FFFFFFFLnet/minecraft/inventory/EntityEquipmentSlot;)V / (Lsf;FFFFFFFLsb;)V)
+[20:25:15] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:25:15] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:25:15] [Client thread/INFO]: [Quark ASM] Applying Transformation to method (Names [renderEnchantedGlint, func_188364_a, a] Descriptor (Lnet/minecraft/client/renderer/entity/RenderLivingBase;Lnet/minecraft/entity/EntityLivingBase;Lnet/minecraft/client/model/ModelBase;FFFFFFF)V / (Lbsy;Lsf;Lbju;FFFFFFF)V)
+[20:25:15] [Client thread/INFO]: [Quark ASM] Located Method, patching...
+[20:25:15] [Client thread/INFO]: [Quark ASM] Patch result: true
+[20:25:15] [Client thread/INFO]: Loaded configs...
+[20:25:15] [Client thread/WARN]: ****************************************
+[20:25:15] [Client thread/WARN]: * Dangerous alternative prefix `minecraft` for name `ReadingEnchantment`, expected `bibliocraft` invalid registry invocation/invalid name?
+[20:25:15] [Client thread/WARN]: *  at net.minecraftforge.fml.common.registry.IForgeRegistryEntry$Impl.setRegistryName(IForgeRegistryEntry.java:82)
+[20:25:15] [Client thread/WARN]: *  at net.minecraftforge.fml.common.registry.IForgeRegistryEntry$Impl.setRegistryName(IForgeRegistryEntry.java:90)
+[20:25:15] [Client thread/WARN]: *  at net.minecraftforge.fml.common.registry.IForgeRegistryEntry$Impl.setRegistryName(IForgeRegistryEntry.java:63)
+[20:25:15] [Client thread/WARN]: *  at net.minecraftforge.fml.common.registry.GameData.register_impl(GameData.java:233)
+[20:25:15] [Client thread/WARN]: *  at net.minecraftforge.fml.common.registry.GameRegistry.register(GameRegistry.java:173)
+[20:25:15] [Client thread/WARN]: *  at jds.bibliocraft.ItemLoader.initItems(ItemLoader.java:182)...
+[20:25:15] [Client thread/WARN]: ****************************************
+[20:25:15] [Client thread/INFO]: OBJLoader: Domain bibliocraft has been added.
+[20:25:15] [Client thread/INFO]: [panda.birdsnests.BirdsNests:preInit:102]: minecraft:stick,0,1-2-3-3;minecraft:feather,0,1-3;minecraft:egg,0,2;minecraft:string,0,4-4;minecraft:bone,0,6-16;minecraft:flint,0,4;minecraft:wheat_seeds,0,6-12;minecraft:melon_seeds,0,25;minecraft:pumpkin_seeds,0,25;minecraft:diamond,0,25;minecraft:emerald,0,30;minecraft:redstone,0,13-18;minecraft:glowstone_dust,0,6-12;minecraft:blaze_powder,0,40-40;minecraft:gold_nugget,0,8-10-13-16;minecraft:fish,0,30;minecraft:prismarine_shard,0,60;minecraft:beetroot_seeds,0,25;corn:kernels,0,18;exnihiloomnia:silkworm,0,16-18;exnihiloomnia:stone,0,4-6;exnihiloomnia:seeds_potato,0,14;exnihiloomnia:seeds_carrot,0,14;exnihiloomnia:seeds_sugarcane,0,33;exnihiloomnia:seeds_cactus,0,33;exnihiloomnia:seeds_grass,0,33;exnihiloomnia:spores,0,100;exnihiloomnia:seed_oak,0,12;exnihiloomnia:seed_spruce,0,25;exnihiloomnia:seed_birch,0,25;exnihiloomnia:seed_jungle,0,25;exnihiloomnia:seed_acacia,0,25;exnihiloomnia:seed_dark_oak,0,25;
+[20:25:16] [Client thread/INFO]: Extra Utilities 2 JEI Plugin - ACTIVATE!
+[20:25:16] [Client thread/INFO]: OBJLoader: Domain bloodmagic has been added.
+[20:25:17] [Client thread/INFO]: Registering default Templates...
+[20:25:17] [Client thread/INFO]: Registering default generators...
+[20:25:17] [Client thread/INFO]: Verifying or creating base world generation directory...
+[20:25:17] [Client thread/INFO]: Complete.
+[20:25:17] [Client thread/INFO]: Starting pre-init...
+[20:25:17] [Client thread/INFO]: Loading blocks...
+[20:25:17] [Client thread/INFO]: 71 Feature's blocks loaded.
+[20:25:17] [Client thread/INFO]: Loading Tile Entities...
+[20:25:17] [Client thread/INFO]: Tile Entities loaded.
+[20:25:17] [Client thread/INFO]: Loading items...
+[20:25:17] [Client thread/INFO]: 71 Feature's items loaded.
+[20:25:17] [Client thread/INFO]: Pre-init finished.
